@@ -81,9 +81,9 @@ CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee6
 东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 湖北综合,http://58.48.37.158:1111/tsfile/live/1002_1.m3u8
-湖北综合,http://58.53.153.138:9901/tsfile/live/faacts/1014_1.m3u8
+湖北综合,http://221.232.13.58:4022/rtp/239.69.1.42:9892
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8
-湖北经视,http://58.53.153.138:9901/tsfile/live/faacts/1017_1.m3u8
+湖北经视,http://221.232.13.58:4022/rtp/239.69.1.41:9886
 文旅频道,http://[2409:8087:74d9:21::6]/270000001111/1110000330/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
