@@ -91,9 +91,12 @@ CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-湖北经视,http://119.98.133.99:4022/rtp/239.69.1.41:9886
+湖北綜合,https://stream1.freetv.fun/a55cf145b70db7097c49ce1c256bb26c272ddba09ed129200475f44b3826e81d.ctv
+湖北經視,https://stream1.freetv.fun/844c6ddc4a714c625ae9b3569caef984f1ef9790fc07e116b0e58939e8c0d9cd.ctv
+湖北經視,https://stream1.freetv.fun/bfb66df35a555753a27f056a4a24893ff0cff605d259ccf9c602e526d70767cb.ctv
+湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
+湖北综合,http://www.furymax.top:85/rtp/239.69.1.42:9892
 湖北经视,http://20191221.xyz:8888/udp/239.69.1.41:9886
-湖北综合,http://119.98.133.99:4022/rtp/239.69.1.42:9892
 湖北综合,http://20191221.xyz:8888/udp/239.69.1.42:9892
 凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
