@@ -99,6 +99,7 @@ CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866
 湖北经视,http://20191221.xyz:8888/udp/239.69.1.41:9886
 湖北综合,http://20191221.xyz:8888/udp/239.69.1.42:9892
 湖北经视,http://219.138.73.45:8888/udp/239.69.1.41:9886
+湖北综合,http://219.138.73.45:8888/udp/239.69.1.42:9892
 凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰HK,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u
