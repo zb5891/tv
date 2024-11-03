@@ -194,6 +194,9 @@ TVBJ2,http://bziyunshao.synology.me:8890/bysid/82
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
 酒店频道,#genre# 
+湖北综合,http://220.249.114.102:9901/tsfile/live/1008_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+CCTV2,http://220.249.114.102:9901/tsfile/live/1001_1.m3u8
 湖北经视,http://113.57.161.254:9000/tsfile/live/1000_1.m3u8
 湖北综合,http://113.57.161.254:9000/tsfile/live/1001_1.m3u8
 CCTV1,http://113.57.161.254:9000/tsfile/live/0001_1.m3u8
