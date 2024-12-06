@@ -226,8 +226,8 @@ CCTV17,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 湖北综合,http://27.17.237.199:2701/rtp/239.69.1.42:9892
 湖北经视,http://27.17.233.195:3520/rtp/239.69.1.41:9886
 湖北综合,http://27.17.233.195:3520/rtp/239.69.1.42:9892
-湖北经视,http://27.17.252.56:8056/rtp/239.69.1.41:9886
-湖北综合,http://27.17.252.56:8056/rtp/239.69.1.42:9892
+湖北经视,http://27.18.237.137:9100/rtp/239.69.1.41:9886
+湖北综合,http://27.18.237.137:9100/rtp/239.69.1.42:9892
 湖北经视,http://119.98.133.51:5555/rtp/239.69.1.41:9886
 湖北综合,http://119.98.133.51:5555/rtp/239.69.1.42:9892
 湖北经视,http://27.17.145.247:8989/rtp/239.69.1.41:9886
@@ -474,6 +474,11 @@ CCTV17,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 鉴证实录,https://live.metshop.top/huya/23903183
 陀枪师姐,https://live.metshop.top/huya/23860039
 芈月传,https://live.metshop.top/huya/11352975
+香港喜剧大全,http://dns.yiandrive.com:16813/huya/23865080
+蜡笔小新,http://dns.yiandrive.com:16813/huya/11352970
+父母爱情,http://dns.yiandrive.com:16813/huya/11602071
+刑事侦缉档案,http://dns.yiandrive.com:16813/huya/29465856
+狄仁杰电影,http://dns.yiandrive.com:16813/huya/30080229
 
 斗鱼频道,#genre#
 吃米滴虫,http://159.75.85.63:35455/douyu/315457
@@ -732,6 +737,11 @@ CCTV17,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 斗鱼电影3y,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影4y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电2y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+豆瓣高分,http://dns.yiandrive.com:16813/douyu/8770422
+变形金刚,http://dns.yiandrive.com:16813/douyu/4105989
+宰相刘罗锅,http://dns.yiandrive.com:16813/douyu/8543072
+港片轮播,http://dns.yiandrive.com:16813/douyu/12143022
+小白影院,http://dns.yiandrive.com:16813/douyu/322360
 
 歪歪频道,#genre#
 三国演义,https://live.metshop.top/yy/32788000
@@ -886,6 +896,23 @@ CCTV17,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 花千骨,http://jiaojirentv.top/2020/yy.php?id=1354943110
 少年歌行,http://jiaojirentv.top/2020/yy.php?id=1450556636
 鹊刀门传奇,http://jiaojirentv.top/2020/yy.php?id=1355344777
+第一滴血,http://dns.yiandrive.com:16813/yy/1354932355
+变形金刚,http://dns.yiandrive.com:16813/yy/1382736803
+超级英雄,http://dns.yiandrive.com:16813/yy/1382745091
+复联合集,http://dns.yiandrive.com:16813/yy/1354936167
+科幻轮播,http://dns.yiandrive.com:16813/yy/1382736851
+悬疑烧脑,http://dns.yiandrive.com:16813/yy/1354930903
+武林外传,http://dns.yiandrive.com:16813/yy/1355652820
+速度与激情,http://dns.yiandrive.com:16813/yy/1382749892
+知否知否应是绿肥红瘦,http://dns.yiandrive.com:16813/yy/1354936134
+加勒比海盗,http://dns.yiandrive.com:16813/yy/1382749914
+海外轮播1,http://dns.yiandrive.com:16813/yy/1382736867
+动作大片,http://dns.yiandrive.com:16813/yy/1382736833
+木乃伊全集,http://dns.yiandrive.com:16813/yy/1354889024
+国产喜剧,http://dns.yiandrive.com:16813/yy/1382736856
+科幻轮播,http://dns.yiandrive.com:16813/yy/1382745114
+葫芦娃,http://dns.yiandrive.com:16813/yy/1353323999
+国产喜剧,http://dns.yiandrive.com:16813/yy/1382735584
 
 其他影视,#genre#
 外星+人2,https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
