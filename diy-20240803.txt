@@ -34,6 +34,26 @@ CCTV2,http://27.19.212.28:9100/udp/239.69.1.102:10250
 CCTV2,http://122.189.103.156:8888/udp/228.0.0.2:6108
 
 虎牙频道,#genre#
+电影解说1,http://diyp.zxyxndc.top/huya/23110321
+电影解说2,http://diyp.zxyxndc.top/huya/27693540
+电影解说3,http://diyp.zxyxndc.top/huya/29484323
+电影解说4,http://diyp.zxyxndc.top/huya/29856678
+电影解说5,http://diyp.zxyxndc.top/huya/29399457
+电影解说6,http://diyp.zxyxndc.top/douyu/8813254
+电影解说7,http://diyp.zxyxndc.top/douyu/9486020
+电影解说8,http://diyp.zxyxndc.top/douyu/9447668
+电影解说9,http://diyp.zxyxndc.top/douyu/9643264
+电影解说10,http://diyp.zxyxndc.top/douyu/9736161
+电影解说11,http://diyp.zxyxndc.top/douyu/2660125
+电影解说12,http://diyp.zxyxndc.top/douyu/9123570
+电影解说13,http://diyp.zxyxndc.top/douyu/8317926
+电影解说14,http://diyp.zxyxndc.top/douyu/8837964
+电影解说15,http://diyp.zxyxndc.top/douyu/8415464
+电影解说16,http://diyp.zxyxndc.top/douyu/2039501
+电影解说17,http://diyp.zxyxndc.top/douyu/10319545
+电影解说18,http://diyp.zxyxndc.top/douyu/9639225
+电影解说19,http://diyp.zxyxndc.top/douyu/1842621
+电影解说20,http://diyp.zxyxndc.top/douyu/8656759
 电影_星爷,http://diyp.zxyxndc.top/huya/11342412
 电影_英叔,http://diyp.zxyxndc.top/huya/11342421
 电影_发哥,http://diyp.zxyxndc.top/huya/11342387
