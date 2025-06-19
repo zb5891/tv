@@ -27,11 +27,14 @@ CCTV2tsfile,http://119.36.78.50:9981/tsfile/live/1048_1.m3u8
 CCTV2tsfile,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
 CCTV2tsfile,http://113.57.93.165:9900/tsfile/live/0002_1.m3u8
 CCTV2tsfile,http://58.19.38.162:9901/tsfile/live/0002_1.m3u8
+CCTV2tsfile,http://118.77.60.87:8899/tsfile/live/0002_1.m3u8
+CCTV2tsfile,http://171.38.91.149:8181/tsfile/live/1017_1.m3u8
 
 湖北经视,http://122.189.103.156:8888/udp/228.0.0.125:6108
 湖北综合,http://122.189.103.156:8888/udp/228.0.0.126:6108
 
 CCTV2,http://122.189.103.156:8888/udp/228.0.0.2:6108
+CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 
 虎牙频道,#genre#
 电影解说1,http://diyp.zxyxndc.top/huya/23110321
