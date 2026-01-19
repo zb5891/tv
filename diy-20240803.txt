@@ -4,6 +4,7 @@
 湖北综合tsfile,http://119.36.78.50:9981/tsfile/live/1010_1.m3u8
 CCTV2tsfile,http://119.36.78.50:9981/tsfile/live/1048_1.m3u8
 
+湖北经视tsfile0119,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8
 湖北综合ts1225,http://120.202.94.181:9446/tsfile/live/1002_1.m3u8
 CCTV2ts1225,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8
 
@@ -15,6 +16,26 @@ CCTV2ts0108,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8
 CCTV2ts11283,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.102:10250
 
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-2,http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
+CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&wsSecret=5aec4b2fd09a7a40920df80db1862da9&wsTime=6966f95d
+CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-2,http://112.27.235.94:8000/hls/2/index.m3u8
+CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
+CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&unique_id=stream-695106910011261612_684_flv&wsSecret=fc06766784777da294247d06ae30f581&wsTime=6966f95d
+CCTV-2,http://3501776.xyz:35455/gaoma/cctv2.m3u8
+CCTV-2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?&encrypt=
+CCTV-2,http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-2,https://hls-gateway.vpstv.net/streams/476881.m3u8
+CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023315
+CCTV-2,http://goo.bkpcp.top/mg/CCTV2
+CCTV-2,http://dsj.motem.top:8880/gaoma/cctv2.m3u8
+CCTV-2,http://nas.suntao.online:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-2,http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-2,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8
+CCTV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
+CCTV-2,http://zjzcf.synology.me:35455/gaoma/cctv2.m3u8
+CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 
 解说频道,#genre#
 虎牙解说1,http://diyp.zxyxndc.top/huya/23110321
