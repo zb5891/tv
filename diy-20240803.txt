@@ -57,17 +57,16 @@ CCTV2ts0108,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8
 湖北经视11283,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.41:9886
 CCTV2ts11283,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.102:10250
 
-CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=10
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=4
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=5
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=8
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=6
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=7
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=2
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=3
+CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
+CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&unique_id=stream-695106910011261612_684_flv&wsSecret=258653137fb1ed334218de18f528adaa&wsTime=69704a44
+CCTV-2,http://3501776.xyz:35455/gaoma/cctv2.m3u8
+CCTV-2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?&encrypt=
+CCTV-2,http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-2,https://hls-gateway.vpstv.net/streams/476881.m3u8
+CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023315
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2
 CCTV-2,http://dsj.motem.top:8880/gaoma/cctv2.m3u8
@@ -78,15 +77,15 @@ CCTV-2,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888
 CCTV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 CCTV-2,http://zjzcf.synology.me:35455/gaoma/cctv2.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://36.32.174.67:60080/newlive/live/hls/2/live.m3u8
 CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
-CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
-CCTV-2,http://123.129.70.178:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://120.238.94.10:9901/tsfile/live/1019_1.m3u8
-CCTV-2,http://218.13.170.98:9901/tsfile/live/0002_1.m3u8
+CCTV-2,http://182.150.23.74:808/hls/2/index.m3u8
 CCTV-2,http://112.46.85.60:8009/hls/502/index.m3u8
 CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
 CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
+CCTV-2,http://218.13.170.98:9901/tsfile/live/0002_1.m3u8
 
 解说频道,#genre#
 虎牙解说1,http://diyp.zxyxndc.top/huya/23110321
