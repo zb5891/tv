@@ -54,6 +54,18 @@ cctv2,http://219.140.7.46:7777/tsfile/live/1041_1.m3u8
 湖北综合tsfile09043,http://183.94.146.79:9901/tsfile/live/0127_1.m3u8
 cctv2,http://183.94.146.79:9901/tsfile/live/0002_1.m3u8
 
+湖北综合09101,http://www.zyhfm.com:8088/rtp/239.69.1.42:9892
+湖北经视09101,http://www.zyhfm.com:8088/rtp/239.69.1.41:9886
+CCTV209101,http://www.zyhfm.com:8088/rtp/239.69.1.102:10250
+
+湖北综合09102,http://alist.xicp.fun:52057/rtp/239.69.1.42:9892
+湖北经视09102,http://alist.xicp.fun:52057/rtp/239.69.1.41:9886
+CCTV209102,http://alist.xicp.fun:52057/rtp/239.69.1.102:10250
+
+湖北综合09103,http://www.ct123.online:8188/rtp/239.69.1.42:9892
+湖北经视09103,http://www.ct123.online:8188/rtp/239.69.1.41:9886
+CCTV209103,http://www.ct123.online:8188/rtp/239.69.1.102:10250
+
 湖北综合11283,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.42:9892
 湖北经视11283,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.41:9886
 CCTV2ts11283,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.102:10250
